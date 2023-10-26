@@ -1,0 +1,12 @@
+Package: RPackageCreationProject1
+Type: Package
+Title: R Package Creation Project1
+Version: 2023.10.26
+Author: Saisree Siddineni
+Maintainer: Saisree Siddineni <ss4662@nau.edu>
+Description: First R Package Creation Project.
+License: GPL-3
+RoxygenNote: 7.2.3
+LinkingTo: Rcpp
+Imports: Rcpp, testthat
+suggests: testthat

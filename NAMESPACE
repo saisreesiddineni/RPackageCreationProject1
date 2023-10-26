@@ -1,0 +1,2 @@
+useDynLib(RPackageCreationProject1)
+exportPattern("^[[:alpha:]]+")
